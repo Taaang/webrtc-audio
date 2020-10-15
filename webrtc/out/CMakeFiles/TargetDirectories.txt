@@ -1,0 +1,3 @@
+/home/care/tangdaqi/webrtc/out/CMakeFiles/rebuild_cache.dir
+/home/care/tangdaqi/webrtc/out/CMakeFiles/webrtc_audio.dir
+/home/care/tangdaqi/webrtc/out/CMakeFiles/edit_cache.dir
