@@ -1,4 +1,4 @@
-## Magi-WebRtc-Audio
+## WebRtc-Audio
 
 Google WebRtc audio processing module, export audio noise suppressor and vad for invoke in java.
 
