@@ -34,11 +34,11 @@ int WebRtcVad_Process(VadInst* handle, int fs, const int16_t* audio_frame, size_
 
 - Before
 
-![image](https://cstore-public.seewo.com/picbook-public/3ba25c7b6f724a6b9c8ed719de767f75)
+![image](https://github.com/Taaang/webrtc-audio/blob/master/before.png?raw=true)
 
 - After
 
-![image](https://cstore-public.seewo.com/picbook-public/59faac9b56d74ec999f0b0624fcc9d32)
+![image](https://github.com/Taaang/webrtc-audio/blob/master/after.png?raw=true)
 
 
 ## Example code:
